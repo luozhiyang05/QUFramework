@@ -382,7 +382,6 @@
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Audio/AudioPlayableAssetInspector.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Audio/AudioTrackInspector.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/ControlTrack/ControlPlayableAssetEditor.cs"
-"Library/PackageCache/com.unity.timeline@1.6.5/Editor/CurveEditUtility.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/CustomEditors/ClipEditor.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/CustomEditors/CustomTimelineEditorCache.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/CustomEditors/MarkerEditor.cs"
@@ -405,7 +404,6 @@
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/DirectorNamedColorInspector.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/EditorClip.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/EditorClipFactory.cs"
-"Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/FrameRateDrawer.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/GroupTrackInspector.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/IInspectorChangeHandler.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/inspectors/MarkerInspector.cs"
@@ -530,7 +528,6 @@
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/treeview/TrackGui/TimelineTrackGUI.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/treeview/TrackGui/TrackResizeHandle.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/treeview/TrackPropertyCurvesDataSource.cs"
-"Library/PackageCache/com.unity.timeline@1.6.5/Editor/Undo/ApplyDefaultUndoAttribute.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Undo/UndoExtensions.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Undo/UndoScope.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/UnityEditorInternals.cs"
@@ -598,7 +595,6 @@
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_PlayableLookup.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_PlayRange.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_PreviewPlayMode.cs"
-"Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_Selection.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_StateChange.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_TimeArea.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/TimelineWindow_TimeCursor.cs"
@@ -606,7 +602,6 @@
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/ViewModel/ScriptableObjectViewPrefs.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/ViewModel/TimelineAssetViewModel.cs"
 "Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/ViewModel/TimelineWindowViewPrefs.cs"
-"Library/PackageCache/com.unity.timeline@1.6.5/Editor/Window/WindowConstants.cs"
 -langversion:9.0
 
 /deterministic
